@@ -1,0 +1,11 @@
+# 1. Goal definition
+string goal        
+string pilot_name    
+---
+# 2. Result definition
+string status_message
+float32 total_time    
+---
+# 3. Feedback definition
+string feedback    
+int32 progress_pct
